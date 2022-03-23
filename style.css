@@ -1,0 +1,52 @@
+header{
+    background-color: coral;
+    padding-bottom: 10px;
+    text-align: right;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+li{
+    display: inline;
+}
+
+ul{
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.Image {
+    image-orientation: flip;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+
+body{
+    background-color: wheat;
+
+
+}
+
+.contact{
+    margin:0px auto;
+    width: 400px;
+    border: 8px solid burlywood;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+
+
+footer{
+    background-color: coral;
+    height: 50px;
+    text-align: center;
+}
